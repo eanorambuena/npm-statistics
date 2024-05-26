@@ -8,12 +8,13 @@ NPM Download Statistics for DavidWells Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                     | Downloads |
-| -------------------------------------------------------- | --------- |
-| **Total**                                                | **2,503** |
-| [emmy-dom](https://www.npmjs.com/package/emmy-dom)       | 2,128     |
-| [create-emmy](https://www.npmjs.com/package/create-emmy) | 375       |
-| **Total**                                                | **2,503** |
+| Name                                                 | Downloads                                                                             |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Total**                                            | **Internal Server Error/npm-stat/api/download-counts02,024-05-26T00:41:55.721+00:00** |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                                 |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2,024-05-26T00:41:55.721+00:00                                                        |
+| [path](https://www.npmjs.com/package/path)           | /npm-stat/api/download-counts                                                         |
+| **Total**                                            | **Internal Server Error/npm-stat/api/download-counts02,024-05-26T00:41:55.721+00:00** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
