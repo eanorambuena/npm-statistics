@@ -10,10 +10,10 @@ NPM Download Statistics for DavidWells Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                     | Downloads |
 | -------------------------------------------------------- | --------- |
-| **Total**                                                | **5,971** |
-| [emmy-dom](https://www.npmjs.com/package/emmy-dom)       | 5,625     |
-| [create-emmy](https://www.npmjs.com/package/create-emmy) | 346       |
-| **Total**                                                | **5,971** |
+| **Total**                                                | **5,993** |
+| [emmy-dom](https://www.npmjs.com/package/emmy-dom)       | 5,640     |
+| [create-emmy](https://www.npmjs.com/package/create-emmy) | 353       |
+| **Total**                                                | **5,993** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
